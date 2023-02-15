@@ -1,0 +1,15 @@
+ .list-group-item:hover {
+    outline: 4px solid #ff8800;
+    z-index: 1;
+ }
+ .logo-text {
+   font-size: 24px;
+   font-weight: bold;
+   color: rgb(11, 41, 12);
+}
+body {
+   background-color: rgb(231, 250, 244);
+}
+header {
+   background-color: rgb(210, 255, 218);
+}

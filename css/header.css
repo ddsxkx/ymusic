@@ -1,0 +1,36 @@
+input[type="search"]{
+    border: none;
+    color: #ff3f04;
+ }
+ 
+
+
+ .logo-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(11, 41, 12);
+ }
+ header .nav-link {
+        color: rgb(11, 41, 12);
+ }
+ header .nav-link:hover {
+    color: red;
+}
+header .nav-link.active {
+    color: #ffdb4d;
+}
+.plus-badge {
+    font-size: 10px;
+    padding: 10px 10px;
+    background: linear-gradient(101.67deg,#a1ff7b 7.24%,rgb(74, 170, 44) 34.12%,#ffbb00 62.93%,#f19035 92.22%);
+}
+
+header .nav-link:hover {
+    color: rgb(255, 115, 0);
+}
+header .nav-link:active {
+    color: rgb(189, 0, 0);
+}
+header .nav-link:focus-visible {
+    color: rgb(189, 0, 0);
+}
